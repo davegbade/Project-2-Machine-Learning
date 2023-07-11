@@ -1,4 +1,4 @@
-    -  ****Adult Income Dataset****
+                       ********Adult Income Prediction******
      
 - This dataset contains information about individuals from the 1994 U.S. Census database, including their age, education, occupation, marital status, race, gender and whether they have an annual income of more than 50K dollars. The dataset is used for exploring and demonstrating data pre-processing and machine learning techniques.
 
