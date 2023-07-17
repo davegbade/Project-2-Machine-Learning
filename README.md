@@ -113,3 +113,16 @@ Becker,B., & Ichino,A. (1998). Income Classification with Fuzzy Rule-Based Syste
 Kohavi,R. (1996). Scaling Up the Accuracy of Naive-Bayes Classifiers: A Decision-Tree Hybrid. In Proceedings of the Second International Conference on Knowledge Discovery and Data Mining (pp. 202–207).
 
 Lichman,M. (2013). UCI Machine Learning Repository [http://archive.ics.uci.edu/ml]. Irvine, CA: University of California, School of Information and Computer Science.
+
+
+The stakeholders for the “Adult” dataset are researchers and data scientists who are interested in exploring and demonstrating data pre-processing and machine learning techniques. The problem that this dataset is trying to solve is predicting whether a given adult makes more than $50,000 a year based on attributes such as education, hours of work per week, etc. This is a classification problem that can be used to explore techniques for imbalanced classification1.
+
+Strengths:
+
+The model can accurately predict whether a given adult makes more than $50,000 a year based on the available attributes.
+The model can be used to identify which attributes are most important for predicting income level.
+Limitations:
+
+The model may have high false positive and false negative rates, which can affect the accuracy of the predictions.
+The model may not be able to capture all of the relevant information in the dataset, which can lead to inaccurate predictions.
+It is important to keep these strengths and limitations in mind when using the model to make predictions. Stakeholders should be aware of the potential limitations of the model and take steps to mitigate any negative impacts on their decision-making process.
