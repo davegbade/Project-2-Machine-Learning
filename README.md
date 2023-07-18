@@ -100,7 +100,21 @@ Showing correlation between Age and Education.
   ![image](https://github.com/davegbade/Project-2-Machine-Learning.ipynb/assets/34641995/1c1e1b9f-f53a-4c46-9e87-410f2932de89)
 
 **  *****Decision Tree Classifier**********
+- Logistic Regression 
+Logistic Regression is a statistical method for analyzing a dataset in which there are one or more independent variables that determine an outcome. It is used to model the probability of a certain class or event existing such as pass/fail, win/lose, alive/dead or healthy/sick. Here are some strengths and limitations of Logistic Regression:
 
+Strengths
+
+Logistic Regression performs well when the dataset is linearly separable 1.
+Logistic regression is less prone to over-fitting but it can overfit in high dimensional datasets 1.
+Logistic Regression not only gives a measure of how relevant a predictor (coefficient size) is, but also its direction of association (positive or negative) 1.
+Outputs have a nice probabilistic interpretation 2.
+The algorithm can be regularized to avoid overfitting 2.
+Logistic models can be updated easily with new data using stochastic gradient descent 2.
+Limitations
+
+The major limitation of Logistic Regression is the assumption of linearity between the dependent and independent variables 3.
+If researchers include the wrong independent variables, the model will have little to no predictive value 4.
 
 
 
