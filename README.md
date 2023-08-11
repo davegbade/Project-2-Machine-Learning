@@ -30,7 +30,7 @@
 - race: The race of the individual (categorical)
 - Possible values: White, Asian-Pac-Islander, Amer-Indian-Eskimo, Other, Black
 - sex: The gender of the individual (categorical)
-- Possible values: Female,Male
+- Possible values: Female,Male.
 - capital-gain: The capital gain of the individual in dollars (numeric)
 - capital-loss: The capital loss of the individual in dollars (numeric)
 - hours-per-week: The average number of hours the individual works per week (numeric)
